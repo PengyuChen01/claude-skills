@@ -7,6 +7,7 @@ Personal collection of [Claude Code](https://docs.claude.com/en/docs/claude-code
 | Skill | Trigger | What it does |
 |---|---|---|
 | [`dense`](./dense) | `/dense`, "be concise", "压缩输出" | Switch output into high-density mode — TL;DR first, tables over prose, stop when done. |
+| [`tldr`](./tldr) | `/tldr`, "summarize this", "一句话总结" | Produce a three-tier summary (1-line gist + 3-5 bullets + optional paragraph) of any long input. |
 
 ## Install
 
